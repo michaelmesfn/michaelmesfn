@@ -9,3 +9,7 @@
 [linkedin]: https://linkedin.com/in/michaelmesfn
 [twitter]: https://twitter.com/mickey_mesfn
 [instagram]: https://www.instagram.com/mickey_mesfn/
+
+<a href="https://github.com/Michaelmesfn">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michaelmesfn&theme=dark&hide_langs_below=1" />
+</a>
